@@ -1,0 +1,9 @@
+[submodule "EditableBufferedReader"]
+	path = EditableBufferedReader
+	url = https://github.com/DanielDiaz4401/EditableBufferedReader
+[submodule "MyServerSocket"]
+	path = MyServerSocket
+	url = https://github.com/DanielDiaz4401/MyServerSocket
+[submodule "uno"]
+	path = uno
+	url = https://gitlab.com/danieldiaz4401/uno
