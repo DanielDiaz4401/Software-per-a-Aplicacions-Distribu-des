@@ -8,7 +8,7 @@ Es pot trobar al repositori [EditableBufferedReader](https://github.com/DanielDi
 
 Es pot trobar al repositori [MyServerSocket](https://github.com/DanielDiaz4401/MyServerSocket)
 
-## Pràctica 2
+## Pràctica 3
 
 Es pot trobar al repositori [GUIChatSwing](https://github.com/DanielDiaz4401/GUIChatSwing)
 
