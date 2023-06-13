@@ -7,3 +7,6 @@
 [submodule "uno"]
 	path = uno
 	url = https://gitlab.com/danieldiaz4401/uno
+[submodule "GUIChatSwing"]
+	path = GUIChatSwing
+	url = https://github.com/DanielDiaz4401/GUIChatSwing
